@@ -1,0 +1,16 @@
+.red-line,
+.green-line {
+color: #000000;
+}
+
+.red-line {
+background-color: #ff8f8f;
+}
+
+#green-line {
+background-color: #94e6ab; 
+}
+
+#blue-text {
+color: #0051ff;
+}
