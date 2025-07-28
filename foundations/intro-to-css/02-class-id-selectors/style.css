@@ -8,6 +8,10 @@ background-color: #ff8f8f;
 font-family: Arial; sans-serif;
 }
 
+.big-boy {
+font-size:x-large;
+}
+
 #green-line {
 background-color: #94e6ab; 
 font: serif;
@@ -17,5 +21,4 @@ font-weight: bold;
 #blue-text {
 color: #0051ff;
 font: serif;
-font-size:xx-large;
 }
