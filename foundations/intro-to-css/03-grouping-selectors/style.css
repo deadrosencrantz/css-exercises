@@ -6,4 +6,17 @@ a yellow background
 a font size of 28px and a list of fonts containing
 `Helvetica` and `Times New Roman`, with `sans-serif` 
 as a fallback*/
+.first,
+.second {
+font-family: Helvetica, "Times New Roman", sans-serif;
+font-size: 28px;
+}
 
+.first {
+background-color: #000000;
+color: white;
+}
+
+.second {
+background-color: yellow;    
+}
