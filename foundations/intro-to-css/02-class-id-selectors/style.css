@@ -5,12 +5,17 @@ color: #000000;
 
 .red-line {
 background-color: #ff8f8f;
+font-family: Arial; sans-serif;
 }
 
 #green-line {
 background-color: #94e6ab; 
+font: serif;
+font-weight: bold;
 }
 
 #blue-text {
 color: #0051ff;
+font: serif;
+font-size:xx-large;
 }
