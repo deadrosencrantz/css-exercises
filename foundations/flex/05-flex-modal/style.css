@@ -46,6 +46,7 @@ body {
 .header {
   display:flex;
   justify-content: space-between;
+  align-content: center;
   font-weight: bold;
   font-size: 18px;
   margin:18px 12px 12px 0px;
