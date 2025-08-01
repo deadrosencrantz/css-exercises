@@ -14,21 +14,19 @@ body {
   flex-flow: column;
   min-height:100%;
 }
-.header {
+.header,
+.footer {
 display:flex;
 justify-content: space-between;
 }
-
 
 .content {
   flex: 1;
 }
 
 .footer {
-  display:flex;
-  justify-content: space-between;
   background-color: lightgrey;
-  justify-self: end;
+
 }
 
 .left-links,
