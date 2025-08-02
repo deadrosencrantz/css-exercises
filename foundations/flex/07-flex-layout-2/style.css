@@ -33,7 +33,6 @@ body {
 .cardbox {
   display: flex;
   flex-wrap: wrap; 
-  width: 1000px;
   gap:32px;
   padding: 48px;
 }
